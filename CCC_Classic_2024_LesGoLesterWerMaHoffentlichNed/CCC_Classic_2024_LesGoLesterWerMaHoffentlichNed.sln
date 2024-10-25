@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed", "CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed.csproj", "{BDCF69F8-5390-4C07-81B1-F748DF7D6932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterateThroughFiles", "IterateThroughFiles\IterateThroughFiles.csproj", "{2B43BFDD-D3F4-46BD-941B-B1BCF95B450A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCF69F8-5390-4C07-81B1-F748DF7D6932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCF69F8-5390-4C07-81B1-F748DF7D6932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCF69F8-5390-4C07-81B1-F748DF7D6932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCF69F8-5390-4C07-81B1-F748DF7D6932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B43BFDD-D3F4-46BD-941B-B1BCF95B450A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B43BFDD-D3F4-46BD-941B-B1BCF95B450A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B43BFDD-D3F4-46BD-941B-B1BCF95B450A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B43BFDD-D3F4-46BD-941B-B1BCF95B450A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\bin\Debug\net8.0\IterateThroughFiles.deps.json
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\bin\Debug\net8.0\IterateThroughFiles.dll
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\bin\Debug\net8.0\IterateThroughFiles.pdb
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.AssemblyInfoInputs.cache
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.AssemblyInfo.cs
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.csproj.CoreCompileInputs.cache
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.dll
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\obj\Debug\net8.0\refint\IterateThroughFiles.dll
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.pdb
+D:\CCC\CCC_Preperation\CCC\IterateThroughFiles\obj\Debug\net8.0\ref\IterateThroughFiles.dll
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\bin\Debug\net8.0\IterateThroughFiles.deps.json
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\bin\Debug\net8.0\IterateThroughFiles.dll
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\bin\Debug\net8.0\IterateThroughFiles.pdb
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.AssemblyInfoInputs.cache
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.AssemblyInfo.cs
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.csproj.CoreCompileInputs.cache
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.dll
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\refint\IterateThroughFiles.dll
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.pdb
+C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\ref\IterateThroughFiles.dll
