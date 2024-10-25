@@ -20,3 +20,15 @@ C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\Iterat
 C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\refint\IterateThroughFiles.dll
 C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.pdb
 C:\Users\Karl Gansberger\Desktop\CCC\IterateThroughFiles\obj\Debug\net8.0\ref\IterateThroughFiles.dll
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\bin\Debug\net8.0\IterateThroughFiles.deps.json
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\bin\Debug\net8.0\IterateThroughFiles.dll
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\bin\Debug\net8.0\IterateThroughFiles.pdb
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.AssemblyInfoInputs.cache
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.AssemblyInfo.cs
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.csproj.CoreCompileInputs.cache
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.sourcelink.json
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.dll
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\obj\Debug\net8.0\refint\IterateThroughFiles.dll
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\obj\Debug\net8.0\IterateThroughFiles.pdb
+C:\Users\matth\RiderProjects\CCC_SchoOlWeCaNMAke_It\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\IterateThroughFiles\obj\Debug\net8.0\ref\IterateThroughFiles.dll

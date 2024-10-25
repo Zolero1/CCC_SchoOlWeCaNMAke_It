@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IterateThroughFiles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+738ccb1cac20dd74d9070cc283f4ae01e043c006")]
 [assembly: System.Reflection.AssemblyProductAttribute("IterateThroughFiles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IterateThroughFiles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

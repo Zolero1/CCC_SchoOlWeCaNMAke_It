@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matth\\RiderProjects\\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\\IterateThroughFiles\\IterateThroughFiles.csproj",
+      "projectUniqueName": "C:\\Users\\matth\\RiderProjects\\CCC_SchoOlWeCaNMAke_It\\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\\IterateThroughFiles\\IterateThroughFiles.csproj",
       "projectName": "IterateThroughFiles",
-      "projectPath": "C:\\Users\\matth\\RiderProjects\\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\\IterateThroughFiles\\IterateThroughFiles.csproj",
+      "projectPath": "C:\\Users\\matth\\RiderProjects\\CCC_SchoOlWeCaNMAke_It\\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\\IterateThroughFiles\\IterateThroughFiles.csproj",
       "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matth\\RiderProjects\\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\\IterateThroughFiles\\obj\\",
+      "outputPath": "C:\\Users\\matth\\RiderProjects\\CCC_SchoOlWeCaNMAke_It\\CCC_Classic_2024_LesGoLesterWerMaHoffentlichNed\\IterateThroughFiles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config"
